@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm Working On
 * **Research:** Hybrid Deep Learning architectures (EfficientNet + YOLO) for precision livestock identification.
-* **Defense Tech:** Building **SentinelLink**, a secure, AI-optimized multi-channel communication system for defense vehicles.
+* **Defense AI:** Developing **Camouflage Detection Systems** to identify concealed objects and threats in high-complexity environments using attention-based networks.
 * **Data Analysis:** Unlocking societal trends in Aadhaar enrolment using Python & Power BI.
 
 ### 🛠️ Tech Stack
