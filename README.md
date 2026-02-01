@@ -63,13 +63,3 @@ I am an AI researcher and engineer focused on **Computer Vision** and **Natural 
 | **Aadhaar Trend Analysis** | Data Science | Python, Power BI | ✅ Completed |
 
 ---
-
-### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanpote&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpote&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer"/>
-</div>
