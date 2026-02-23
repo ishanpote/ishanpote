@@ -58,6 +58,7 @@ I am an AI researcher and engineer focused on **Computer Vision** and **Natural 
 
 | Project | Domain | Key Tech | Status |
 | :--- | :--- | :--- | :--- |
+| **GeoMaps Red Zone** | Security | Python | 🚧 In Progress |
 | **Camouflage Threat Detection** | Defense / CV | Attention Networks, ResNet | 🚧 In Progress |
 | **Cattle Breed Recognition** | Research | EfficientNet, YOLOv8 | 🏆 Awarded |
 | **Aadhaar Trend Analysis** | Data Science | Python, Power BI | ✅ Completed |
