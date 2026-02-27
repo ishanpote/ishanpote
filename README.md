@@ -66,5 +66,5 @@ I am an AI researcher and software engineer specializing in **Computer Vision** 
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanpote&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-</div>
+  <img src="https://streak-stats.demolab.com/?user=ishanpote&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>>
