@@ -67,4 +67,4 @@ I am an AI researcher and software engineer specializing in **Computer Vision** 
 ### 📊 Github Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ishanpote&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>>
+</div>
